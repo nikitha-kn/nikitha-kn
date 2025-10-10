@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm K.N. Nikitha!
 
-<!--
-**nikitha-kn/nikitha-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA Student | 🤖 AI & Data Science Enthusiast | 💻 Python Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
+- 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
+- 💡 Exploring how data and algorithms can solve real-world problems  
+- 🗣️ Interested in **Speech Recognition** and **Natural Language Processing (NLP)**
+- 🚀 Always learning, building, and sharing knowledge through projects
+
+---
+
+## 🧠 Interests & Skills
+- 💻 **Languages:** Python, SQL, C++
+- 📚 **AI & DS Tools:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras  
+- 📈 **Core Areas:** Machine Learning, Deep Learning, Data Analysis, Visualization  
+- 🧩 **Other Tools:** Jupyter, Google Colab, Git, VS Code  
+
+---
+
+## 🧑‍💻 Current Projects
+- 🧾 **Student Management System** – Manage attendance, results & certificates  
+- 🏦 **Bank Management System** – Python-based backend for transactions  
+- 🎬 **Movie Reservation System** – Console-based ticket booking system  
+- 🎤 **Speech-to-Text Recognition System** – Converts spoken words into text using Python and NLP  
+
+---
+
+## 🌱 What I'm Learning
+- Deep Learning (CNNs, RNNs, LSTMs)  
+- Reinforcement Learning  
+- Speech Recognition & NLP  
+- Flask/Django for AI Model Deployment  
+
+---
+
+## 📫 Connect With Me
+🌐 [LinkedIn](https://www.linkedin.com/in/kn-nikitha)  
+📧 **Email:** kn.nikitha@example.com  
+🐍 [GitHub](https://github.com/kn-nikitha)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kn-nikitha&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kn-nikitha&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *"Turning data into insights, and ideas into intelligent solutions."*
+

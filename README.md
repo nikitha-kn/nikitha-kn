@@ -39,7 +39,8 @@
 
 ## 📫 Connect With Me
 🌐 [LinkedIn](https://www.linkedin.com/in/kn-nikitha)  
-📧 **Email:** knnikitha00@gmail.com 
+📧 **Email:** knnikitha00@gmail.com
+
 🐍 [GitHub](https://github.com/kn-nikitha)
 
 ---

@@ -42,13 +42,6 @@
 📧 **Email:** knnikitha00@gmail.com 
 🐍 [GitHub](https://github.com/kn-nikitha)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitha-kn&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha-kn&layout=compact&theme=tokyonight)
-
----
 
 ⭐ *"Turning data into insights, and ideas into intelligent solutions."*
 
